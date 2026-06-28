@@ -121,8 +121,8 @@ if "sarpas_salvo" not in st.session_state:
 
 # Usando o caminho exato e as extensões corretas que você passou
 # Mude para caminhos que funcionem em qualquer servidor:
-logo_car = Image.open("imagens/logo_car.png")
-logo_sobrevoo = Image.open("imagens/logo_sobrevoo.jpg")
+logo_car = Image.open("sobrevoo_car/imagens/logo_car.png")
+logo_sobrevoo = Image.open("sobrevoo_car/imagens/logo_sobrevoo.jpg")
 # ==========================================
 # PÁGINA 1: TELA DE UPLOAD E VALIDAÇÃO
 # ==========================================
